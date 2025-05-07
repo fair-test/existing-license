@@ -1,0 +1,31 @@
+{
+  "name": "existing-license",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub",
+        "type": "Organization"
+      },
+      "email": "wheresdorian@gmail.com",
+      "familyName": "Portillo",
+      "id": "_:author_1",
+      "givenName": "Dorian",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/fair-test/existing-license",
+  "dateCreated": "2024-10-17",
+  "description": "fasdf",
+  "issueTracker": "https://github.com/fair-test/existing-license/issues",
+  "keywords": [
+    "3423fasdf"
+  ],
+  "license": "https://spdx.org/licenses/Unicode-TOU",
+  "programmingLanguage": [
+    "asdf",
+    "Ada",
+    "C++"
+  ],
+  "type": "SoftwareSourceCode"
+}
